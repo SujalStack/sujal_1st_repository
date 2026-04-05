@@ -1,3 +1,4 @@
 # sujal_1st_repository
+This is my first git repository
 <br>
-this is my first git repository
+Author=Sujal
